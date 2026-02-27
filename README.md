@@ -1,4 +1,6 @@
 # Ideal, Natural, & Flat-top -Sampling
+# Name:Joshna M
+# Reg no.:212224060110
 # Aim
 Write a simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling.
 # Tools required
